@@ -1,4 +1,12 @@
-(*User Manager function*)
+(*
+ * File: OMSQL.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of OMSQL, licensed under the MIT License.
+ *)
+ 
+ (*User Manager function*)
 
 FUNCTION SQLClient : BOOL (*TODO: Add your comment here*)
 	VAR_INPUT

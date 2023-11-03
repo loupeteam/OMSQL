@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DBLib
- * File: DBLib.typ
- * Author: Josh
- * Created: August 18, 2015
- ********************************************************************
- * Data types of library DBLib
- ********************************************************************)
+(*
+ * File: Types.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of OMSQL, licensed under the MIT License.
+ *)
 
 TYPE
 	SQL_DATATYPE : 
