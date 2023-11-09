@@ -5,6 +5,7 @@
  * 
  * This file is part of OMSQL, licensed under the MIT License.
  *)
+ 
  VAR CONSTANT
 	SQL_STRLEN_PREFIX : UINT := 400;
 	SQL_STRLEN_SUFFIX : UINT := 20;
