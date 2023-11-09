@@ -1,0 +1,12 @@
+(*
+ * File: Constants.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of OMSQL, licensed under the MIT License.
+ *)
+ 
+ VAR CONSTANT
+	SQL_STRLEN_PREFIX : UINT := 400;
+	SQL_STRLEN_SUFFIX : UINT := 20;
+END_VAR
